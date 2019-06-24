@@ -1,0 +1,19 @@
+@font-face {
+  font-family: spaceFont;
+  src: url('./../fivebyfive/FiveByFive.ttf'); 
+}
+
+.html{
+  margin: 0;
+  padding: 0;
+}
+
+#game-board canvas {
+  background-color: pink;
+}
+
+#game-board{
+display: flex;
+justify-content: center;
+margin-top: 3%;
+}
