@@ -3,17 +3,30 @@
   src: url('./../fivebyfive/FiveByFive.ttf'); 
 }
 
-.html{
+html{
   margin: 0;
   padding: 0;
+
+}
+
+body{
+  background-image: url('../images/tumblr_o2egdqOh1I1sg6ldbo1_r1_1280.png');
+  background-size: 120%;
+  background-repeat: no-repeat;
+  background-position-x: -70px;
 }
 
 #game-board canvas {
   background-color: pink;
+  display: flex;
+  align-content: center;
+  margin-top: 3%;
 }
 
 #game-board{
 display: flex;
 justify-content: center;
-margin-top: 3%;
+margin-top: 2%;
+margin-bottom: 2%;
+
 }
