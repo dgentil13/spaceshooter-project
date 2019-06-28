@@ -1,8 +1,4 @@
-# spaceshooter-project<!DOCTYPE html>
-<html lang="en">
-  <title>READ ME</title>
-<body>
-  <article>
+
     <h1> ASTRO BLASTER - THE GAME </h1>
   
     <p>
@@ -30,6 +26,3 @@
      The art was taken from itch.io site, made available by Ravenmore.
     </p>
 
-  </article>
-</body>
-</html>
